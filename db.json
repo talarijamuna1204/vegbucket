@@ -1,0 +1,64 @@
+{
+  "vegbucket": [
+    {
+      "name": "Drumsticks",
+      "image_url": "https://5.imimg.com/data5/ANDROID/Default/2022/3/AC/CX/HS/3731227/prod-20220324-2134283485541550672113059-jpg-500x500.jpg",
+      "id": 3,
+      "price": 20,
+      "available": "0",
+      "category": "Vegetables",
+      "quantity": "3",
+      "vendor": "Mallikarjuna farms"
+    },
+    {
+      "name": "Orange",
+      "image_url": "https://5.imimg.com/data5/ANDROID/Default/2022/3/RB/SW/HP/3650307/product-jpeg-500x500.jpg",
+      "id": 4,
+      "price": 25,
+      "available": 1,
+      "vendor": "Nagpur farms",
+      "quantity": "",
+      "category": "Fruits"
+    },
+    {
+      "name": "Potato",
+      "image_url": "https://5.imimg.com/data5/ANDROID/Default/2022/6/UJ/XE/OJ/11618089/product-jpeg-500x500.jpg",
+      "id": 1,
+      "price": 30,
+      "available": 1,
+      "vendor": "Himachal Pvt Ltd",
+      "quantity": "1",
+      "category": "Vegtables"
+    },
+    {
+      "name": "Banana",
+      "image_url": "https://5.imimg.com/data5/IJ/MQ/CB/ANDROID-65966306/product-jpeg-500x500.jpg",
+      "id": 2,
+      "price": 50,
+      "available": 1,
+      "category": "Fruits",
+      "quantity": "",
+      "vendor": "Organic farms"
+    },
+    {
+      "name": "Drumsticks",
+      "image_url": "https://5.imimg.com/data5/ANDROID/Default/2022/3/AC/CX/HS/3731227/prod-20220324-2134283485541550672113059-jpg-500x500.jpg",
+      "id": 3,
+      "price": 20,
+      "available": 0,
+      "category": "Vegetables",
+      "quantity": "",
+      "vendor": "Mallikarjuna farms"
+    },
+    {
+      "name": "Orange",
+      "image_url": "https://5.imimg.com/data5/ANDROID/Default/2022/3/RB/SW/HP/3650307/product-jpeg-500x500.jpg",
+      "id": 4,
+      "price": 25,
+      "available": 0,
+      "vendor": "Nagpur farms",
+      "quantity": "",
+      "category": "Fruits"
+    }
+  ]
+}
