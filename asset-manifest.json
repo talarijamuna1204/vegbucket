@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vegbucket/static/css/main.bab0b925.chunk.css",
+    "main.js": "/vegbucket/static/js/main.df811112.chunk.js",
+    "main.js.map": "/vegbucket/static/js/main.df811112.chunk.js.map",
+    "runtime-main.js": "/vegbucket/static/js/runtime-main.14dacaad.js",
+    "runtime-main.js.map": "/vegbucket/static/js/runtime-main.14dacaad.js.map",
+    "static/css/2.07203677.chunk.css": "/vegbucket/static/css/2.07203677.chunk.css",
+    "static/js/2.91a8b3c7.chunk.js": "/vegbucket/static/js/2.91a8b3c7.chunk.js",
+    "static/js/2.91a8b3c7.chunk.js.map": "/vegbucket/static/js/2.91a8b3c7.chunk.js.map",
+    "index.html": "/vegbucket/index.html",
+    "static/css/2.07203677.chunk.css.map": "/vegbucket/static/css/2.07203677.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/vegbucket/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.91a8b3c7.chunk.js.LICENSE.txt": "/vegbucket/static/js/2.91a8b3c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14dacaad.js",
+    "static/css/2.07203677.chunk.css",
+    "static/js/2.91a8b3c7.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.df811112.chunk.js"
+  ]
+}
