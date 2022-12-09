@@ -29,6 +29,7 @@
     "build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "server": "npx json-server --watch public/db.json --port=3003",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

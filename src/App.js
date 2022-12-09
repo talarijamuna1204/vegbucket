@@ -21,7 +21,7 @@ function App(props) {
           <Route exact path="/vegbucket/:id" component={BucketView} />
           <Route exact path="/sucessfull" component={Sucessfull} />
           <Route exact path="/failed" component={Failed} />
-          <Route exact path="/" component={Home} />
+          <Route exact path="/vegbucket" component={Home} />
         </Switch>
       </div>
     </Router>

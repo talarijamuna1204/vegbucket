@@ -34,7 +34,7 @@ const BucketView = () => {
     <div className="modal-dialog-dark">
         <div class="modal-content">            
       <div class="modal-header">                  
-      <Link type="button" class="btn btn-close" to="/"></Link>
+      <Link type="button" class="btn btn-close" to="/vegbucket"></Link>
       </div>                         
         <div class="modal-body">
         { bucket.available > 0 ? <h2 style={{color:"green"}}>in-stock</h2> : <h2 style={{color:"red"}}>out-of-stock</h2>}     
@@ -57,7 +57,7 @@ const BucketView = () => {
         <h3>Vendor address: {bucket.vendor}</h3>
       <br/>
       <div class="modal-footer">
-            <Link className="btn btn-primary" to="/">
+            <Link className="btn btn-primary" to="/vegbucket">
               back to Home
             </Link>
             { bucket.available == bucket.quantity ? <Link className="btn btn-primary" to="/sucessfull"> Purchase</Link> : <Link className="btn btn-primary" to="/failed"> Purchase</Link> }   
